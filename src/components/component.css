@@ -1,0 +1,12 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-link {
+  color: var(--dl-color-primary-primary);
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  text-decoration: underline none;
+}
